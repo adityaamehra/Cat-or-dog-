@@ -16,6 +16,7 @@
 		8829F17C269C369F00E47AB9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8829F17B269C369F00E47AB9 /* Constants.swift */; };
 		8829F17E269C370400E47AB9 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8829F17D269C370400E47AB9 /* Animal.swift */; };
 		8829F180269C380200E47AB9 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8829F17F269C380200E47AB9 /* AnimalModel.swift */; };
+		88E77702269CAAF800D30EB2 /* Cat or dog 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 88E77701269CAAF800D30EB2 /* Cat or dog 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		8829F17B269C369F00E47AB9 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		8829F17D269C370400E47AB9 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		8829F17F269C380200E47AB9 /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
+		88E77701269CAAF800D30EB2 /* Cat or dog 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "Cat or dog 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				8829F17D269C370400E47AB9 /* Animal.swift */,
 				8829F17F269C380200E47AB9 /* AnimalModel.swift */,
 				8829F175269C366900E47AB9 /* MobileNetV2.mlmodel */,
+				88E77701269CAAF800D30EB2 /* Cat or dog 1.mlmodel */,
 				8829F176269C366900E47AB9 /* sample.json */,
 				8829F16A269C362D00E47AB9 /* Assets.xcassets */,
 				8829F16F269C362D00E47AB9 /* Info.plist */,
@@ -157,6 +160,7 @@
 				8829F178269C366900E47AB9 /* MobileNetV2.mlmodel in Sources */,
 				8829F180269C380200E47AB9 /* AnimalModel.swift in Sources */,
 				8829F169269C362C00E47AB9 /* ContentView.swift in Sources */,
+				88E77702269CAAF800D30EB2 /* Cat or dog 1.mlmodel in Sources */,
 				8829F167269C362C00E47AB9 /* Cat_or_dog_App.swift in Sources */,
 				8829F17C269C369F00E47AB9 /* Constants.swift in Sources */,
 				8829F17E269C370400E47AB9 /* Animal.swift in Sources */,
