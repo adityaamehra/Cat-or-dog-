@@ -17,6 +17,8 @@
 		8829F17E269C370400E47AB9 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8829F17D269C370400E47AB9 /* Animal.swift */; };
 		8829F180269C380200E47AB9 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8829F17F269C380200E47AB9 /* AnimalModel.swift */; };
 		88E77702269CAAF800D30EB2 /* Cat or dog 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 88E77701269CAAF800D30EB2 /* Cat or dog 1.mlmodel */; };
+		88EB5B8F269DB02E00EFD9B8 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EB5B8E269DB02E00EFD9B8 /* ProgressBar.swift */; };
+		88EB5B91269DB24F00EFD9B8 /* AnimalRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EB5B90269DB24F00EFD9B8 /* AnimalRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		8829F17D269C370400E47AB9 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		8829F17F269C380200E47AB9 /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
 		88E77701269CAAF800D30EB2 /* Cat or dog 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "Cat or dog 1.mlmodel"; sourceTree = "<group>"; };
+		88EB5B8E269DB02E00EFD9B8 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
+		88EB5B90269DB24F00EFD9B8 /* AnimalRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,7 +53,6 @@
 			isa = PBXGroup;
 			children = (
 				8829F165269C362C00E47AB9 /* Cat or dog? */,
-				8829F164269C362C00E47AB9 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -59,6 +62,7 @@
 				8829F163269C362C00E47AB9 /* Cat or dog?.app */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		8829F165269C362C00E47AB9 /* Cat or dog? */ = {
@@ -69,12 +73,15 @@
 				8829F17B269C369F00E47AB9 /* Constants.swift */,
 				8829F17D269C370400E47AB9 /* Animal.swift */,
 				8829F17F269C380200E47AB9 /* AnimalModel.swift */,
+				88EB5B90269DB24F00EFD9B8 /* AnimalRow.swift */,
+				88EB5B8E269DB02E00EFD9B8 /* ProgressBar.swift */,
 				8829F175269C366900E47AB9 /* MobileNetV2.mlmodel */,
 				88E77701269CAAF800D30EB2 /* Cat or dog 1.mlmodel */,
 				8829F176269C366900E47AB9 /* sample.json */,
 				8829F16A269C362D00E47AB9 /* Assets.xcassets */,
 				8829F16F269C362D00E47AB9 /* Info.plist */,
 				8829F16C269C362D00E47AB9 /* Preview Content */,
+				8829F164269C362C00E47AB9 /* Products */,
 			);
 			path = "Cat or dog?";
 			sourceTree = "<group>";
@@ -161,8 +168,10 @@
 				8829F180269C380200E47AB9 /* AnimalModel.swift in Sources */,
 				8829F169269C362C00E47AB9 /* ContentView.swift in Sources */,
 				88E77702269CAAF800D30EB2 /* Cat or dog 1.mlmodel in Sources */,
+				88EB5B91269DB24F00EFD9B8 /* AnimalRow.swift in Sources */,
 				8829F167269C362C00E47AB9 /* Cat_or_dog_App.swift in Sources */,
 				8829F17C269C369F00E47AB9 /* Constants.swift in Sources */,
+				88EB5B8F269DB02E00EFD9B8 /* ProgressBar.swift in Sources */,
 				8829F17E269C370400E47AB9 /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
